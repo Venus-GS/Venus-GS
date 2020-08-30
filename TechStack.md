@@ -27,6 +27,7 @@
 
 ## VCS & CI/CD
 ![Git Badge](https://img.shields.io/badge/-Git-0096FA?logo=git&logoColor=white)
+![SVN Badge](https://img.shields.io/badge/-SVN-0096FA?logo=subversion&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/-GitHub-0096FA?logo=github&logoColor=white)
 ![GitHub Action Badge](https://img.shields.io/badge/-GitHub%20Action-0096FA?logo=github%20actions&logoColor=white)
 
@@ -36,5 +37,6 @@
 
 ## Used Tools
 ![Notion Badge](https://img.shields.io/badge/-Notion-8B8B8B?logo=notion&logoColor=white)
+![Trello Badge](https://img.shields.io/badge/-Trello-8B8B8B?logo=trello&logoColor=white)
 ![Slack Badge](https://img.shields.io/badge/-Slack-8B8B8B?logo=slack&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/-Figma-8B8B8B?logo=figma&logoColor=white)
