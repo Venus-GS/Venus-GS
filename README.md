@@ -10,6 +10,6 @@
 ### More
 <div align=center>
 
-[![Tech Stack Badge](https://img.shields.io/badge/-TechStack-red?link=https://github.com/Venus-GS/Venus-GS/blob/master/TechStack.md)](https://img.shields.io/badge/-Tech%20Stack-red?link=https://github.com/Venus-GS/Venus-GS/blob/master/TechStack.md)
+[![Tech Stack Badge](https://img.shields.io/badge/-Tech%20Stack-red?link=https://github.com/Venus-GS/Venus-GS/blob/master/TechStack.md)](https://github.com/Venus-GS/Venus-GS/blob/master/TechStack.md)
 
 </div>
