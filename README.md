@@ -7,6 +7,12 @@
 - Fitpet (2020.03 ~ Current)
 - Imweb (2018.05 ~ 2020.02)
 
+### Interest & Hobby
+- Service Development ‍💻
+- Cook ‍🍳
+- FreeDiving 🥽
+- Diet 🏋️‍
+
 ### More
 <div align=center>
 
