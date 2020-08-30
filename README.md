@@ -18,5 +18,6 @@
 
 [![Career Detail Badge](https://img.shields.io/badge/-Career%20Detail-00A82D?link=https://github.com/Venus-GS/Venus-GS/blob/master/CarrerDetail.md)](https://github.com/Venus-GS/Venus-GS/blob/master/CareerDetail.md)
 [![Tech Stack Badge](https://img.shields.io/badge/-Tech%20Stack-0061FF?link=https://github.com/Venus-GS/Venus-GS/blob/master/TechStack.md)](https://github.com/Venus-GS/Venus-GS/blob/master/TechStack.md)
+[![Certificate Badge](https://img.shields.io/badge/-Certificate-6400AA?link=https://github.com/Venus-GS/Venus-GS/blob/master/Certificate.md)](https://github.com/Venus-GS/Venus-GS/blob/master/Certificate.md)
 
 </div>
