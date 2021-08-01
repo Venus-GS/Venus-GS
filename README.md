@@ -4,7 +4,8 @@
 - Android Developer
 
 ### Career
-- Fitpet (2020.03 ~ Current)
+- Brandi (2020.11 ~ Current)
+- Fitpet (2020.03 ~ 2020.11)
 - Imweb (2018.05 ~ 2020.02)
 
 ### Interest & Hobby
